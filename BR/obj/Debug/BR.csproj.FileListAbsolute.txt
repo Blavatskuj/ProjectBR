@@ -1,0 +1,13 @@
+C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.exe.config
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\MainWindow.baml
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\MainWindow.g.cs
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\App.g.cs
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR_MarkupCompile.cache
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.g.resources
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.Properties.Resources.resources
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.exe
+C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.pdb
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.exe
+C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.pdb
