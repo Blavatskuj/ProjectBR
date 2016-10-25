@@ -11,3 +11,6 @@ C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.exe
 C:\Users\Roman\Desktop\BR\BR\bin\Debug\BR.pdb
 C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.exe
 C:\Users\Roman\Desktop\BR\BR\obj\Debug\BR.pdb
+C:\BR\ProjectBR\BR\bin\Debug\BR.exe.config
+C:\BR\ProjectBR\BR\obj\Debug\BR.exe
+C:\BR\ProjectBR\BR\obj\Debug\BR.pdb
